@@ -7,11 +7,9 @@
 
 ✨ About Me
 
-🚀 About Me
-
 🎓 Computer Engineering Undergraduate
 
-💼 Former Data Engineering Intern at GE Aerospace
+💼 Former Intern at GE Aerospace
 
 💻 Skilled in Java, Python, SQL, REST APIs, MERN Stack, and Data Engineering
 
