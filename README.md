@@ -9,8 +9,6 @@
 
 🎓 Computer Engineering Undergraduate
 
-💼 Former Intern at GE Aerospace
-
 💻 Skilled in Java, Python, SQL, REST APIs, MERN Stack, and Data Engineering
 
 📊 Experience building BI dashboards, analytics solutions, and full-stack applications
